@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# Streamlit logs
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local data (don’t upload to GitHub)
+sales_data.db
+
+# Credentials
+*.json
+.env
+.env.*
+
+# Editor
+.vscode/
